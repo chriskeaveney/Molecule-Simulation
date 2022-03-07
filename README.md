@@ -18,6 +18,16 @@ It is a demonstration of basic collision physics and classes using a JavaScript 
 
 5. Open localhost in the browser
 
+# Usage
+
+As shown in the short video above,
+
+The canvas displays a number of healthy, infected and immune molecules.
+
+The user can use the GUI controls to adjust the size and / or number of molecules on the canvas.
+
+If an infected molecule comes in contact or collides with one that is healthy, there is a high probability that it will become infected.
+
 # Technologies
 
 - HTML
