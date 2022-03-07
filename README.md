@@ -1,3 +1,3 @@
 # Molecule-Simulation
 
-![](Molecules/img/mol.png)
+![](Molecules/img/mol.gif)
