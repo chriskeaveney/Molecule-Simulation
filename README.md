@@ -17,3 +17,12 @@ It is a demonstration of basic collision physics and classes using a JavaScript 
 4. Run 'live-server'
 
 5. Open localhost in the browser
+
+# Technologies
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Gui Controls (Graphical User Interface)
+
