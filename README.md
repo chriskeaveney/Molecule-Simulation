@@ -1,4 +1,4 @@
-# Molecule-Simulation
+# Molecule Simulation
 
 This project was carried out in 2019 as my first semester assignment for the Creative Coding module of my college degree (Creative Computing in Dún Laoighre Institute of Art, Design & Technology).
 
