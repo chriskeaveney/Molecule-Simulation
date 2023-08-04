@@ -1,6 +1,6 @@
 # Molecule Simulation
 
-Personal project developed 2022 - A demonstration of basic collision physics and classes using a JavaScript canvas.
+Personal project 05/2022 - A demonstration of basic collision physics and classes using a JavaScript canvas.
 
 ![](Molecules/img/Mol.gif)
 
