@@ -1,8 +1,6 @@
 # Molecule Simulation
 
-This project was carried out in 2019 as my first semester assignment for the Creative Coding module of my college degree (Creative Computing in Dún Laoighre Institute of Art, Design & Technology).
-
-It is a demonstration of basic collision physics and classes using a JavaScript canvas.
+Personal project developed 2022 - A demonstration of basic collision physics and classes using a JavaScript canvas.
 
 ![](Molecules/img/Mol.gif)
 
